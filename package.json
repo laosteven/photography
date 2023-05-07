@@ -2,13 +2,12 @@
   "name": "photography",
   "version": "4.0.0",
   "description": "A jekyll website for photographer cum developer",
-  "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rampatra/photography.git"
+    "url": "git+https://github.com/laosteven/photography.git"
   },
   "keywords": [
     "photography",

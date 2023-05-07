@@ -1,0 +1,9 @@
+version: "3.0"
+
+services:
+  photography:
+    image: laosteven/photography
+    container_name: photography
+    ports:
+      - 4000:4000
+    restart: unless-stopped

@@ -1,5 +1,7 @@
 # Base configs
-#baseurl: "https://snappybara.com"
+# baseurl: ""
+host: 0.0.0.0
+port: 4000
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
